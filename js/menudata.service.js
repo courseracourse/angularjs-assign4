@@ -27,6 +27,6 @@ function MenuDataService ($http, ApiBasePath) {
 
 			return response;
 	}
-}	
+}
 
 })();
